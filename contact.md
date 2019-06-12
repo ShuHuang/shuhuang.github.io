@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-征婚联系方式
+愿意就和你联系
 
 
 ### 联系方式
