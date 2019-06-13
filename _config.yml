@@ -4,7 +4,7 @@ author: Shu Huang# You :P
 description: > # Meta description of Homepage
   这是陈静的房间。
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://ccchenjing.club/ # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ccchenjing.club/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
