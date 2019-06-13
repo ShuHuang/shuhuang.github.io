@@ -8,7 +8,7 @@ permalink: /contact/
 &nbsp;
 ### 联系方式
 &nbsp;
-输入联系方式或者 [发送邮件](mailto:{{hu.huang-2@outlook.coms}}) 来联系我。
+输入联系方式或者 [发送邮件](mailto:{{shu.huang-2.outlook.com}}) 来联系我。
 
 {% include form.html %}
 
