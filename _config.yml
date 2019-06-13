@@ -4,7 +4,7 @@ author: Shu Huang# You :P
 description: > # Meta description of Homepage
   这是陈静的房间。
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://shuhuang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ccchenjing.club/ # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -18,17 +18,17 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: '联系', link: '/contact'}
 
 tagline: >
   无敌可爱的小陈静。
 
 hero_img: posts/jane1.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: your-email@domain.com # email for form submission
+email: shu.huang-2@outlook.com # email for form submission
 
 twitter_username: yellowtreeee # replace with your_twitter_username or comment to remove link from footer
-github_username:  yelowtreee # replace with your_github_username or comment to remove link from footer
+github_username:  ShuHuang # replace with your_github_username or comment to remove link from footer
 instagram_username: crazyyellowtree # replace with your_instagram_username or comment to remove link from footer
 
 disqus:

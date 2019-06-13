@@ -4,12 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-愿意就和你联系
-
-
+# 愿意就和我联系 
+&nbsp;
 ### 联系方式
-
-填表格或者 [发我邮件](mailto:{{shu.huang-2@outlook.com}}) 来联系她。
+&nbsp;
+输入联系方式或者 [发送邮件](mailto:{{hu.huang-2@outlook.coms}}) 来联系我。
 
 {% include form.html %}
 
