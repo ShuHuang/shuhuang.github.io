@@ -18,7 +18,11 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: '联系', link: '/contact'}
+  - {name: 'Contact', link: '/contact'}
+  - {name: '雪', link: '/snow'}
+  - {name: '雨', link: '/thunder'}
+  - {name: '风', link: '/wind'}
+  - {name: '鸟', link: '/bird'}
 
 tagline: >
   无敌可爱的小陈静。
